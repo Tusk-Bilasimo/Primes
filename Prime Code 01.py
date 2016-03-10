@@ -57,7 +57,7 @@ almostList = [x for x in pairsList if x not in newList]
 firstPair = [2,3] # We must remember to retrieve the first true prime pair 2 and 3 *
 primeList = firstPair + almostList
 
-print("List of pime numbers")
+print("List of prime numbers")
 print(primeList)
 print("The number of primes in the list is: -")
 print(len(primeList))
