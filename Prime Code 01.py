@@ -1,5 +1,5 @@
 
-print("Solving for primes without division")
+print("A hexacyclic sieve that reveals prime numbers")
 
 maxValue = int(input("Please input a maxValue "))
 
@@ -66,6 +66,7 @@ print('End')
 
 # *
 '''
+Description
 It begins with the only true prime pair 2 and 3, whose product forms the magical composite number 6. 
 All other primes orbit around it and its multiples. Using alternating patterns of 2 and 4, 
 the composites are revealed in succession beginning with 5 in the first segregated pair of the series. 
