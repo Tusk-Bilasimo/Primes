@@ -59,7 +59,7 @@ this process gets repeated by adding the alternating products of b x 4 then a x 
 
 This reveals the composite products of b, in the segregated pairsList:- [49, 77, 91...]
 
-Steps one and two are repeated sequentially creating loopListOne and loopListTwo throughout the pairsList until n² > maxValue, loopListOne and loopListTwo are combined forming a compositeList and the compositeList is striped from the pairsList to form the primesList. Lastly the prime pair 2 and 3 are added to the primesList.
+Steps one and two are repeated sequentially creating loopListOne and loopListTwo throughout the pairsList while n² < maxValue, loopListOne and loopListTwo are combined forming a compositeList and the compositeList is striped from the pairsList to form the primesList. Lastly the prime pair 2 and 3 are added to the primesList.
 
 The interesting illustration this demonstrates;  it is not that primes are randomly distributed but rather it is the composite values in the pairsList that appears random due to their incrementally increase, layering and partial overlapping. This results in an apparent random sequence. By studying how composites are distributed in pairsList we are able to reveal the pattern of the primes. 
 
