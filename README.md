@@ -4,6 +4,7 @@ DESCRIPTION
 It begins with the only true prime pair 2 and 3, whose product forms the magical composite number 6. All other primes orbit around it and its multiples. Using alternating patterns of 2 and 4, the composites are revealed in succession beginning with 5 in the first segregated pair of the series. Each integer in the series is raised to the second power and then its product of 2 and 4 reveals the distribution of the composite numbers. As the process is repeated, the order that 2 and 4 are used to generate the products alternates, to progressively strip away the remaining composites integers and reveal the rest of the primes.
 
 The segregated pairsList 
+
 Other than 2 and 3 all prime numbers are located adjacent to a multiple of 6, this means we can ignore other integers  in our search for primes.
 
 The following expression can be used and repeated to generate a segregated pairsList of multiples of 6-1 and 6+1. Beginning with:- 
@@ -23,6 +24,7 @@ When setting a maxValue of 100, this generates the following segregated pairsLis
 [5, 7, 11, 13, 17, 19, 23, 25, 29, 31, 35, 37, 41, 43, 47, 49, 53, 55, 59, 61, 65, 67, 71, 73, 77, 79, 83, 85, 89, 91, 95, 97...]
 
 Revealing the composites in the pairsList
+
 While there is no pattern to the distribution of the primes, there is a pattern to the composite numbers in the list, all of the segregated pairs in the series are primes up until a². The composites in the segregated pairsList are revealed in a two step alternating pattern.
 
 STEP ONE 
