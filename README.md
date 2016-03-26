@@ -63,5 +63,5 @@ Steps one and two are repeated sequentially creating loopListOne and loopListTwo
 
 The interesting illustration this demonstrates;  it is not that primes are randomly distributed but rather it is the composite values in the pairsList that appears random due to their incrementally increase, layering and partial overlapping. This results in an apparent random sequence. By studying how composites are distributed in pairsList we are able to reveal the pattern of the primes. 
 
-Look at it this way, consider the plane of natural numbers as all being potentially prime, until you add layers of multiples over it as decried above, forming composite numbers in recurring patterns because their spacing incrementally increased you get intermittent overlapping of composites and irregular gaps of primes forming a Jackson Pollock type canvas of composites and primes. 
+Look at it this way, consider the plane of natural numbers as all being potentially prime, until you add layers of multiples over it as decried above, forming composite numbers in recurring patterns, but because their spacing incrementally increased you get intermittent overlapping of composites and irregular gaps of primes forming a Jackson Pollock type canvas of composites and primes. 
 
