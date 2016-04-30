@@ -9,7 +9,7 @@ while (pairsList[-1] <= n):
     for i in pairsList:
         if i <= pairsList[-1] **0.5: # to test for prime factors, we only need to test up to square root of i
             if pairsList[-1] % i == 0: # we only need to test the list items to see if its a prime
-                break # if 
+                break
         else:
             primesList.append(pairsList[-1])
             break
