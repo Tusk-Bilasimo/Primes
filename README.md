@@ -4,7 +4,7 @@ DESCRIPTION
 
 It begins with the only true prime pair 2 and 3, whose sum is the next prime and the beginning of a mysterious sequence, but more importantly their product forms the magical composite number 6. All other primes orbit around it and its multiples. Using alternating patterns of 2 and 4, the composites are revealed in succession beginning with 5 in the first segregated pair of the series. Each integer in the series is raised to the second power and then its product of 2 and 4 reveals the distribution of the composite numbers. As the process is repeated throughout the series, the order that 2 and 4 are used to generate the products alternates, to progressively strip away the remaining composite integers and reveal the rest of the primes.
 
-The segregated pairsList 
+THE SEGREGATED PAIRS LIST 
 
 Other than 2 and 3 all prime numbers are located adjacent to a multiple of 6, this means we can ignore other integers  in our search for primes.
 
@@ -24,7 +24,7 @@ When setting a maxValue of 100, this generates the following segregated pairsLis
 
 [5, 7, 11, 13, 17, 19, 23, 25, 29, 31, 35, 37, 41, 43, 47, 49, 53, 55, 59, 61, 65, 67, 71, 73, 77, 79, 83, 85, 89, 91, 95, 97...]
 
-Revealing the composites in the pairsList
+REVEALING THE COMPOSITES IN THE PAIRSLIST
 
 While there is no obvious pattern to the distribution of the primes (see proof why primes are not random), there is a clear pattern to the composite numbers in the list, all of the segregated pairs in the series are primes up until a². The composites in the segregated pairsList are revealed in a two step alternating pattern.
 
@@ -66,7 +66,8 @@ The illustration this demonstrates:-  It is not that primes are randomly distrib
 
 An alternative perspective; consider the plane of natural numbers as all being potentially prime, until you add layers of multiples over it as described above, forming composite numbers in recurring patterns, but because their spacing is incrementally increased you get intermittent overlapping of composites and irregular gaps of primes forming a Jackson Pollock type canvas of composites and primes. 
 
-Notes
+NOTES
+
 See Prime Code 02.py for an example of this written in python
 Prime Code 03.py and Prime Code 04.py a variants that were used to speed up the process
 
