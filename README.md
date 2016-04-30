@@ -1,7 +1,7 @@
-# Prime-Sive
+Primes and their Distribution
 DESCRIPTION
 
-It begins with the only true prime pair 2 and 3, whose product forms the magical composite number 6. All other primes orbit around it and its multiples. Using alternating patterns of 2 and 4, the composites are revealed in succession beginning with 5 in the first segregated pair of the series. Each integer in the series is raised to the second power and then its product of 2 and 4 reveals the distribution of the composite numbers. As the process is repeated throughout the series, the order that 2 and 4 are used to generate the products alternates, to progressively strip away the remaining composites integers and reveal the rest of the primes.
+It begins with the only true prime pair 2 and 3, whose sum is the next prime and the beginning of a mysterious sequence, but more importantly their product forms the magical composite number 6. All other primes orbit around it and its multiples. Using alternating patterns of 2 and 4, the composites are revealed in succession beginning with 5 in the first segregated pair of the series. Each integer in the series is raised to the second power and then its product of 2 and 4 reveals the distribution of the composite numbers. As the process is repeated throughout the series, the order that 2 and 4 are used to generate the products alternates, to progressively strip away the remaining composites integers and reveal the rest of the primes.
 
 The segregated pairsList 
 
@@ -25,7 +25,7 @@ When setting a maxValue of 100, this generates the following segregated pairsLis
 
 Revealing the composites in the pairsList
 
-While there is no obvious pattern to the distribution of the primes, there is a clear pattern to the composite numbers in the list, all of the segregated pairs in the series are primes up until a². The composites in the segregated pairsList are revealed in a two step alternating pattern.
+While there is no obvious pattern to the distribution of the primes(see proof), there is a clear pattern to the composite numbers in the list, all of the segregated pairs in the series are primes up until a². The composites in the segregated pairsList are revealed in a two step alternating pattern.
 
 STEP ONE 
 
