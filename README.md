@@ -66,3 +66,12 @@ The illustration this demonstrates:-  It is not that primes are randomly distrib
 
 An alternative perspective; consider the plane of natural numbers as all being potentially prime, until you add layers of multiples over it as described above, forming composite numbers in recurring patterns, but because their spacing is incrementally increased you get intermittent overlapping of composites and irregular gaps of primes forming a Jackson Pollock type canvas of composites and primes. 
 
+Notes
+See Prime Code 02.py for an example of this written in python
+Prime Code 03.py and Prime Code 04.py a variants that were used to speed up the process
+
+The Patterns of Primes.ods spread further illustrates the the distribution of primes with a "Prime Plain" sheet and "Pairs List & Spacing" sheet. Lastly the "Prime Factors" sheet contains a proof that primes are not random.
+
+
+
+
