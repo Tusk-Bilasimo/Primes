@@ -71,7 +71,7 @@ NOTES
 See Prime Code 02.py for an example of this written in python
 Prime Code 03.py and Prime Code 04.py a variants that were used to speed up the process
 
-The Patterns of Primes.ods spread further illustrates the the distribution of primes with a "Prime Plain" sheet and "Pairs List & Spacing" sheet. Lastly the "Prime Factors" sheet contains a proof that primes are not random.
+The Patterns of Primes.ods spreadsheets further illustrate the the distribution of primes, with a "Prime Plain" sheet and "Pairs List & Spacing" sheet. Lastly the "Prime Factors" sheet contains a proof that illustrates, primes are not random.
 
 
 
