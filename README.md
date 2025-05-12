@@ -26,7 +26,7 @@ When setting a maxValue of 100, this generates the following segregated pairsLis
 
 REVEALING THE COMPOSITES IN THE PAIRSLIST
 
-While there is no obvious pattern to the distribution of the primes (see proof why primes are not random), there is a clear pattern to the composite numbers in the list, all of the segregated pairs in the series are primes up until a². The composites in the segregated pairsList are revealed in a two step alternating pattern.
+While there is no obvious pattern to the distribution of the primes (see proof why primes themselves are not random, merely thier distribution is), there is a clear pattern to the composite numbers in the list, all of the segregated pairs in the series are primes up until a². The composites in the segregated pairsList are revealed in a two step alternating pattern.
 
 STEP ONE 
 
